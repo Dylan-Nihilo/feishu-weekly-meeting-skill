@@ -1,0 +1,4 @@
+interface:
+  display_name: "飞书周三周五周报"
+  short_description: "创建项目周会板块，并在会后登记 AI 纪要与妙记"
+  default_prompt: "使用 $feishu-weekly-meeting 准备本周三、周五的周报，并同步已结束会议的 AI 纪要和妙记。"

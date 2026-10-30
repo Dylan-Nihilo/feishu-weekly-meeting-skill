@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+.venv/
+.local/
+config.json
+*.local.json
+pending.json
+*.pending.json
+*.operations.jsonl
+*.lock
+operations.jsonl
+.DS_Store
